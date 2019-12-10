@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="1001" class="cn.xdl.dom4j.Property">
+        <property name="name" value="西游记"></property>
+        <property name="info" value="西天取经"></property>
+    </bean>
+
+    <bean id="1002" class="cn.xdl.dom4j.Property">
+        <property name="name" value="水浒传"></property>
+        <property name="info" value="武松打虎"></property>
+    </bean>
+    <bean id="1003" class="cn.xdl.dom4j.Emp">
+        <property name="id" value="1"></property>
+        <property name="info" value="abc"></property>
+        <property name="num" value="123"></property>
+    </bean>
+</beans>
